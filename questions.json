@@ -1,0 +1,142 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "What's another word for \"big\"?",
+      "options": ["Small", "Large", "Tiny"],
+      "correct": 1,
+      "explanation": "\"Big\" and \"large\" mean the same thing - not small."
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "Fill in the blank: Happy is to glad as fast is to _____.",
+      "options": ["Slow", "Quick", "Sad"],
+      "correct": 1,
+      "explanation": "\"Fast\" and \"quick\" both mean moving at high speed."
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "\"Little\" and \"small\" mean the same thing.",
+      "options": ["True", "False"],
+      "correct": 0,
+      "explanation": "\"Little\" and \"small\" are synonyms, both meaning not big."
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Which word means the same as \"pretty\"?",
+      "options": ["Ugly", "Big", "Beautiful"],
+      "correct": 2,
+      "explanation": "\"Pretty\" and \"beautiful\" both describe something that looks nice."
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "\"Brave\" is the same as:",
+      "options": ["Scared", "Courageous", "Funny"],
+      "correct": 1,
+      "explanation": "\"Brave\" and \"courageous\" both mean not afraid."
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "Fill in the blank: Funny is to silly as smart is to _____.",
+      "options": ["Dumb", "Clever", "Strong"],
+      "correct": 1,
+      "explanation": "\"Smart\" and \"clever\" both mean intelligent or quick-thinking."
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "\"Loud\" and \"quiet\" mean the same thing.",
+      "options": ["True", "False"],
+      "correct": 1,
+      "explanation": "\"Loud\" and \"quiet\" are opposites, not synonyms."
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "Which word means the same as \"tired\"?",
+      "options": ["Sleepy", "Happy", "Fast"],
+      "correct": 0,
+      "explanation": "When you're \"tired\", you feel \"sleepy\" - ready for bed!"
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "\"Cold\" is the same as:",
+      "options": ["Hot", "Warm", "Chilly"],
+      "correct": 2,
+      "explanation": "\"Cold\" and \"chilly\" both describe low temperature."
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "Fill in the blank: Nice is to kind as wet is to _____.",
+      "options": ["Dry", "Damp", "Cold"],
+      "correct": 1,
+      "explanation": "\"Wet\" and \"damp\" both mean not dry."
+  },
+  {
+      "questionNo": "Q11.",
+      "question": "\"Tiny\" and \"small\" mean the same thing.",
+      "options": ["Yes", "No"],
+      "correct": 0,
+      "explanation": "\"Tiny\" and \"small\" are both words for something which is not big."
+  },
+  {
+      "questionNo": "Q12.",
+      "question": "Which word means the same as \"noisy\"?",
+      "options": ["Quiet", "Loud", "Soft"],
+      "correct": 1,
+      "explanation": "\"Noisy\" and \"loud\" both describe something making a lot of sound."
+  },
+  {
+      "questionNo": "Q13.",
+      "question": "\"Silent\" is the same as:",
+      "options": ["Loud", "Noisy", "Quiet"],
+      "correct": 2,
+      "explanation": "\"Silent\" and \"quiet\" both mean making little or no noise."
+  },
+  {
+      "questionNo": "Q14.",
+      "question": "Fill in the blank: Big is to large as little is to _____.",
+      "options": ["Huge", "Small", "Tall"],
+      "correct": 1,
+      "explanation": "\"Little\" and \"small\" both mean not big."
+  },
+  {
+      "questionNo": "Q15.",
+      "question": "\"Happy\" and \"sad\" mean the same thing.",
+      "options": ["True", "False"],
+      "correct": 1,
+      "explanation": "\"Happy\" and \"sad\" are opposites, not synonyms."
+  },
+  {
+      "questionNo": "Q16.",
+      "question": "Which word means the same as \"glad\"?",
+      "options": ["Happy", "Angry", "Tired"],
+      "correct": 0,
+      "explanation": "\"Glad\" and \"happy\" both describe feeling good."
+  },
+  {
+      "questionNo": "Q17.",
+      "question": "\"Fast\" is the same as:",
+      "options": ["Slow", "Quick", "Tired"],
+      "correct": 1,
+      "explanation": "\"Fast\" and \"quick\" both mean moving at high speed."
+  },
+  {
+      "questionNo": "Q18.",
+      "question": "Fill in the blank: Brave is to courageous as funny is to _____.",
+      "options": ["Sad", "Serious", "Silly"],
+      "correct": 2,
+      "explanation": "\"Funny\" and \"silly\" both describe something that makes you laugh."
+  },
+  {
+      "questionNo": "Q19.",
+      "question": "\"Smart\" and \"clever\" mean the same thing.",
+      "options": ["Yes", "No"],
+      "correct": 0,
+      "explanation": "\"Smart\" and \"clever\" are synonyms, both meaning intelligent."
+  },
+  {
+      "questionNo": "Q20.",
+      "question": "Which word means the same as \"nice\"?",
+      "options": ["Mean", "Kind", "Angry"],
+      "correct": 1,
+      "explanation": "\"Nice\" and \"kind\" both describe someone who is good to others."
+  }
+]
